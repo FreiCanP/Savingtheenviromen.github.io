@@ -1,2 +1,2 @@
 # FreiCan.github.io
-Pagina del proyecto de gradp "Saving de environment"
+Pagina del proyecto de grado "Saving de environment"
